@@ -7,7 +7,7 @@ namespace ExemploConstrutores
     {
         static void Main(string[] args)
         {
-            Aluno p1 = new Aluno("Marcelo", "Pacheco", "Inlges");
+            Aluno p1 = new Aluno("Marcelo", "Pacheco", "Inglês");
             p1.Apresentar();
 
             
